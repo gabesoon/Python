@@ -23,3 +23,9 @@
 ### 11. Numpy_numpy로 로또번호 자동 생성기 만들기 
 
 ### 12. Numpy_numpy를 이용하여 pi(원주율) 값을 계산하기
+---
+# Reference
+- [데이터 증가와 기계학습](https://cafe.daum.net/oracleoracle)
+- [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
+- [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/pymldg-rev)
+- 그 외 google search , stackoverflow 등
