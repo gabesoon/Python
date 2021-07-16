@@ -26,6 +26,9 @@
 ---
 # Reference
 - [데이터 증가와 기계학습](https://cafe.daum.net/oracleoracle)
+- [점프 투 파이썬](https://wikidocs.net/book/1)
 - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
 - [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/pymldg-rev)
+- [테디노트](https://teddylee777.github.io/categories/git/)
+- [머신러닝야학](https://ml.yah.ac/)
 - 그 외 google search , stackoverflow 등
