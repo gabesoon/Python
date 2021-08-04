@@ -57,7 +57,6 @@
 - [예제로 배우는 파이썬 프로그래밍](http://pythonstudy.xyz/)
 - [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/pymldg-rev)
 - [테디노트](https://teddylee777.github.io/categories/git/)
-- [평생 데이터 분석 하고픈 꽁냥이](https://zephyrus1111.tistory.com/category/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC)
 - [머신러닝야학](https://ml.yah.ac/)
 - [Preprocessing with sklearn](https://towardsdatascience.com/preprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9)
 - [machinelearningmastery](machinelearningmastery.com)
