@@ -10,3 +10,5 @@
 * 지도 저장하기
 * 이를 활용한 실습 : 서울시 대피소 현황 지도 만들기
 ---
+# 결과 지도
+![image](https://user-images.githubusercontent.com/74717033/128636077-641002de-9b10-47d1-9a81-81256b7a04e8.png)
